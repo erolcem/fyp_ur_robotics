@@ -1,0 +1,16 @@
+V1
+################################################
+load("../brick40/brick.cao")
+###############################################
+# 3D points
+0                    # No 3D points
+# 3D lines
+0                    # No 3D lines
+# 3D faces from lines
+0                    # No 3D faces from lines
+# 3D faces from points
+0                    # No 3D faces from points
+# 3D cylinders
+0                    # No 3D cylinders
+# 3D circle
+0                    # No 3D circle
